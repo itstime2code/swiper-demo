@@ -1,0 +1,10 @@
+{
+  "name": "swiper-demo",
+  "type": "module",
+  "scripts": {
+    "start": "serve . -l 5500"
+  },
+  "dependencies": {
+    "swiper": "^11.0.7"
+  }
+}
